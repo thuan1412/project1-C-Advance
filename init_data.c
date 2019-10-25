@@ -51,8 +51,9 @@ void create_autocomplete_tree() {
 
 
 int main() {
-    create_autocomplete_tree();
-    char *file_name = "auto-complete.db";
+    // create_autocomplete_tree();
+    char *file_name = "./data/auto-complete.db";
+    btinit();
     
     BTA *complete_tree;
     complete_tree = btopn(file_name, 0, 1);
@@ -61,23 +62,60 @@ int main() {
         printf("created\n");
         complete_tree = btcrt(file_name, 0, 1);
     } 
-    
-    while (1) {
-        char prefix[100], completion[100];
-        int rsize;
-        printf("Enter prefix: ");
-        fgets(prefix,30, stdin);
-        prefix[strlen(prefix) - 1] = '\0';
-        if  (strcmp(prefix, "q")==0) {
-        // remove(file_name);  
-            exit(1);
-        }
-        int check = btsel(complete_tree, prefix, completion, 300, &rsize);
-        printf("%s\n", prefix);
-        // printf("%s- %d - %s\n", prefix, check, completion);
-        if (!check) 
-            printf("%s %d\n", completion, rsize);
-        else printf("Does not exist this key: %d\n", check);
+    FILE *f = fopen("/usr/share/dict/words","r");
+    char word[50];
+    while (!feof(f)){
+        fgets(word, 50, f);
+        word[strlen(word)-1]= '\0';
+        binsky(complete_tree, word, 1);
     }
+    fclose(f);
     btcls(complete_tree);
+
+    // int rsize;
+    // while (1) {
+    //     char key[50]="", value[100];
+    //     // btpos(test, ZSTART);
+    //     printf("Enter prefix: ");
+    //     fgets(key, 30, stdin);
+    //     key[strlen(key) - 1] = '\0';
+    //     int len_key = strlen(key);
+    //     char start[30], end[30];
+    //     strcpy(start, key);
+    //     strcpy(end, start);
+    //     bfndky(test, key, &rsize);
+
+    //     end[len_key-1] = start[len_key-1] + 1;
+    //     if (strncmp(start, key, len_key) > 0) {
+    //         printf("%s - %s - %s\n", start, key, end);
+    //     }
+    //     else {
+    //         while (strcmp(key, end) < 0) {
+    //         int check = bnxtky(test, key, &rsize);
+    //         printf("%s\n", key);
+    //         }
+    //     }
+    //     btpos(test, ZSTART);
+    // }
+    
+    
+    
+    // while (1) {
+    //     char prefix[100], completion[100];
+    //     int rsize;
+    //     printf("Enter prefix: ");
+    //     fgets(prefix,30, stdin);
+    //     prefix[strlen(prefix) - 1] = '\0';
+    //     if  (strcmp(prefix, "q")==0) {
+    //     // remove(file_name);  
+    //         exit(1);
+    //     }
+    //     int check = btsel(complete_tree, prefix, completion, 300, &rsize);
+    //     printf("%s\n", prefix);
+    //     // printf("%s- %d - %s\n", prefix, check, completion);
+    //     if (!check) 
+    //         printf("%s %d\n", completion, rsize);
+    //     else printf("Does not exist this key: %d\n", check);
+    // }
+    // btcls(complete_tree);
 }
