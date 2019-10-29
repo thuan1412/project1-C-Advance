@@ -6,7 +6,7 @@
 #include <termios.h>
 
 static struct termios old, new;
- 
+
 /* Initialize new terminal i/o settings */
 void initTermios(int echo) 
 {
@@ -50,59 +50,70 @@ char getche(void)
 {
   return getch_(1);
 }
- 
+
+void clearInput(int n)
+{
+    int i = 0;
+    while (i < n)
+    {
+        putchar('\b');
+        printf("%c[0K", 27);
+        i++;
+    }
+}
+const char * get_prefix() {
+  	static char word[30];
+	int i=0;
+	char c;
+	do {
+		c = getch();	
+		if (c=='\t') {
+			return word;
+		}
+		word[i] = c;
+		printf("%c", c);
+		if (c==127) {
+			putchar('\b');
+			word[--i] = '\0';
+			printf("%c[0K", 27);
+		} else 
+			i++;
+	} while (c!='\t');
+  	word[i-1]='\0';
+	return word;
+}
+
 int main() {
     btinit();
     char filename[30] = "./data/auto-complete.db";
     BTA* complete_tree = btopn(filename, 0, 1);
-    // if (complete_tree==NULL) {
-    //     FILE *f = fopen("/usr/share/dict/words","r");
-    //     complete_tree = btcrt(filename, 0, 0);
-    //     char word[50];
-    //     while (!feof(f)){
-    //         fgets(word, 50, f);
-    //         word[strlen(word)-1]= '\0';
-    //         binsky(complete_tree, word, 1);
-    //     }
-    //     fclose(f);
-    // }
 
     int rsize,
         i;
     while (1) {
-        // set/reset the key value
-        char key[50]="", value[100];
-        // btpos(complete_tree, ZSTART);
+        // set the prefix value
+        char prefix[50]="", value[100];
         printf("Enter prefix: ");
-        fgets(key, 30, stdin);
-        if (getch())
-        key[strlen(key) - 1] = '\0';
-        int len_key = strlen(key);
+		strcpy(prefix, get_prefix());
+		// printf("%s", prefix);
+        int len_prefix = strlen(prefix);
         char start[30], end[30];
-        strcpy(start, key);
+        strcpy(start, prefix);
         strcpy(end, start);
-        int check = bfndky(complete_tree, key, &rsize);
+        int check = bfndky(complete_tree, prefix, &rsize);
 
-        end[len_key-1] = start[len_key-1] + 1;
-        if (strncmp(start, key, len_key) < 0) {
-            printf("%s - %s - %s\n", start, key, end);
-        }
-        else {
-            char c='c';
-            while (strcmp(key, end) < 0 & (c = getch()) == '\t' ) {
-            int check = bnxtky(complete_tree, key, &rsize);
-            printf("%s\n", key);
-            // c = getch();
-            // if (c=='\t') {
-            //     for (i=0 ; i<strlen(key) - strlen(start); i++) {
-            //         printf("\b");
-            //         printf("%c[0K", 27);
-            //         }
-            //     }
-            }
+        end[len_prefix-1] = start[len_prefix-1] + 1;
+		char c;
+		if (strncmp(start, prefix, len_prefix) >= 0) {
+            do  {
+				int check = bnxtky(complete_tree, prefix, &rsize);
+				if (strncmp(prefix, start, len_prefix)==0) {
+					printf("%s\n", prefix);
+				}
+				
+            } while (strcmp(prefix, end) < 0 & ((c = getch()) =='\t' | c =='\n'));
         }
         btpos(complete_tree, ZSTART);
-        printf("\n");
-
+        printf("\n---------------------------------\n");
     }
 }

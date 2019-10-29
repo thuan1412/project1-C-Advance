@@ -1,6 +1,7 @@
 #include <termios.h>
 #include <stdio.h>
- 
+#include <string.h> 
+
 static struct termios old, new;
  
 /* Initialize new terminal i/o settings */
@@ -47,16 +48,25 @@ char getche(void)
   return getch_(1);
 }
  
+const char * get_prefix() {
+  static char word[30];
+	int i=0;
+	char c;
+	do {
+		c = getch();
+		word[i] = c;
+    if (c!='\t')
+		printf("%c", c);
+		i++;
+	} while (c!='\t');
+	// printf("%s\n", word);  
+  word[i-1]='\0';
+	return word;
+}
+
 int main(void) {
-  char c;
-  printf("(getch example) Please enter a character: ");
-  while (1) {
-    c = getch();
-    if (c=='\t') {
-        printf("thuan dep trai");
-    }
-    printf("\nYou entered: %c\n", c);
-  }
-  
+  char prefix[30];
+  strcpy(prefix, get_prefix());
+  printf("%sa", prefix);
   return 0;
 }

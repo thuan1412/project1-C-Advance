@@ -4,7 +4,7 @@
 #include<ctype.h>
 #include "btree.h"
 
-void create_autocomplete_tree() {
+void create_soundexz_tree() {
     char *file_name = "auto-complete.db";
     int i;
     btinit();
@@ -49,9 +49,7 @@ void create_autocomplete_tree() {
     btcls(complete_tree);
 }
 
-
-int main() {
-    // create_autocomplete_tree();
+void create_autocomplete_tree() {
     char *file_name = "./data/auto-complete.db";
     btinit();
     
@@ -71,6 +69,55 @@ int main() {
     }
     fclose(f);
     btcls(complete_tree);
+
+}
+
+char *process_word(char word[50]) {
+    int i=0;
+    int l = strlen(word);
+    while (isdigit(word[i]) || word[i]=='@' || word[i]=='-') {
+        i++;
+    }
+    word = word+i;
+    static char temp[30];
+    strcpy(temp, "");
+    for (i=0; i<l; i++) {
+        if (word[i]=='/') {
+            temp[i] = '\0';
+            return temp;
+        } else
+        {
+            temp[i] = word[i];
+        }
+    }
+    return temp;
+}
+
+int main() {
+    // create_autocomplete_tree();
+    FILE *f = fopen("eng_vn_test.txt", "r");
+    char temp[500], word[500];
+    // char test[100] = "@a b c /'eibi:'si:/";
+    // strcpy(word, process_word(test));
+    // printf("%s\n", word);
+    while (!feof(f)) {
+        int check = 0;
+        fgets(temp, 500, f);
+        temp[strlen(temp) - 1] = '\0';
+        if (temp[0]=='@') {
+
+            strcpy(word, process_word(temp));
+            printf("Word: %s\n", word);
+        } else if (check==0) {
+            printf("Mean: %s", temp);
+            check=1;
+        } else if (check==1)
+        {
+            printf("%s", temp);
+        }
+        
+    }
+    
 
     // int rsize;
     // while (1) {
