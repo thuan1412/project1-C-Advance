@@ -126,7 +126,6 @@ void create_word_mean_tree() {
                 check = btins(word_tree, word, mean, 5000);
 
                 if (check) {
-                    // printf("Error: %d\n%s\n%s\n", check, word, mean);
                 } else {
                     // printf("%s\n", word);
                     fputs(word, f_word);
@@ -159,7 +158,7 @@ void create_word_mean_tree() {
 
 int main() {
     btinit();
-    // create_autocomplete_tree();
+    create_autocomplete_tree();
     // FILE *f = fopen("ENG_VN.txt", "r");
     // FILE *f_word = fopen("words.txt", "w");
     create_word_mean_tree();
