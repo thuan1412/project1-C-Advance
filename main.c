@@ -145,7 +145,7 @@ void search() {
     // printf("%s- %d - %s\n", word, check, mean);
     if (!check) 
         printf("%s\n", mean);
-    else printf("Does not exist this key: %d %s\n", check, word);
+    else printf("Does not exist this key:%s \nError:%d \n", word, check);
     // btpos(word_tree, ZSTART);
 }
 
