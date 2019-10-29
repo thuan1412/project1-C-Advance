@@ -69,7 +69,7 @@ const char * get_prefix() {
 	char c;
 	do {
 		c = getch();	
-		if (c=='\t' | c=='\n') {
+		if (c=='\t' || c=='\n') {
 			return word;
 		}
 		word[i] = c;
@@ -80,7 +80,7 @@ const char * get_prefix() {
 			printf("%c[0K", 27);
 		} else 
 			i++;
-	} while (c!='\t' | c!='\n');
+	} while (c!='\t' || c!='\n');
   	word[i-1]='\0';
 	return word;
 }
@@ -129,6 +129,26 @@ int complete(BTA *complete_tree) {
     }
 }
 
+void search() {
+    char *db_path = "./data/word-mean.db";
+    BTA *word_tree = btopn(db_path, 0, 1);
+    char word[100], mean[5000];
+    int rsize;
+    strcpy(word, "");
+    strcpy(mean, "");
+    printf("Enter word: ");
+    fgets(word,30, stdin);
+    word[strlen(word) - 1] = '\0';
+
+    int check = btsel(word_tree, word, mean, 5000, &rsize);
+    // printf("%s\n", completion);
+    // printf("%s- %d - %s\n", word, check, mean);
+    if (!check) 
+        printf("%s\n", mean);
+    else printf("Does not exist this key: %d %s\n", check, word);
+    // btpos(word_tree, ZSTART);
+}
+
 int main() {
     int choice;
     int *find;
@@ -139,6 +159,7 @@ int main() {
     
     btinit();
     char filename[30] = "./data/auto-complete.db";
+
     BTA* complete_tree = btopn(filename, 0, 1);
 
     while (choice!=6)    {
@@ -155,6 +176,9 @@ int main() {
             // printf("%s", value);
             // btins(btree, key, value,20);
             printf("Option 1\n");
+            break;
+        case 2:
+            search();
             break;
         case 4:
             complete(complete_tree);

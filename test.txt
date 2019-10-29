@@ -1,734 +1,1155 @@
-hobbit
-hobble
-hobble's
-hobbled
-hobbles
-hobbling
-hobby
-annihilation's
-annihilator
-annihilator's
-annihilators
-anniversaries
-anniversary
-anniversary's
-annotate
-annotated
-annotates
-annotating
-annotation
-annotation's
-annotations
-announce
-announced
-announcement
-announcement's
-announcements
-announcer
-announcer's
-announcers
-announces
-announcing
-annoy
-annoyance
-annoyance's
-annoyances
-annoyed
-annoying
-annoyingly
-annoys
-annual
-annual's
-annually
-annuals
-annuities
-annuity
-annuity's
-annul
-annular
-annulled
-annulling
-annulment
-annulment's
-annulments
-annuls
-anode
-anode's
-anodes
-anodyne
-anodyne's
-anodynes
-anoint
-anointed
-anointing
-anointment
-overexposure
-overexposure's
-overextend
-overextended
-overextending
-overextends
-overflow
-overflow's
-overflowed
-overflowing
-overflows
-overfull
-overgenerous
-overgrew
-overgrow
-overgrowing
-overgrown
-overgrows
-overgrowth
-overgrowth's
-overhand
-overhand's
-overhands
-overhang
-overhang's
-overhanging
-overhangs
-overhaul
-overhaul's
-overhauled
-overhauling
-overhauls
-overhead
-overhead's
-overheads
-overhear
-overheard
-overhearing
-overhears
-overheat
-overheated
-overheating
-overheats
-overhung
-overindulge
-overindulged
-overindulgence
-overindulgence's
-overindulges
-overindulging
-overjoy
-overjoyed
-overjoying
-overjoys
-overkill
-overkill's
-overlaid
-overlain
-overland
-overlap
-overlap's
-overlapped
-overlapping
-overlaps
-overlay
-overlay's
-overlaying
-overlays
-overlie
-overlies
-overload
-overload's
-overloaded
-overloading
-overloads
-overlong
-overlook
-overlook's
-overlooked
-overlooking
-overlooks
-overlord
-overlord's
-overlords
-overly
-overlying
-overmuch
-overmuches
-overnight
-overnight's
-overnights
-overpaid
-overpass
-overpass's
-overpasses
-overpay
-overpaying
-overpays
-overplay
-overplayed
-overplaying
-overplays
-overpopulate
-overpopulated
-overpopulates
-overpopulating
-overpopulation
-overpopulation's
-overpower
-overpowered
-overpowering
-overpowers
-overprice
-overpriced
-overprices
-overpricing
-overprint
-overprinted
-overprinting
-overprints
-overproduce
-overproduced
-overproduces
-overproducing
-overproduction
-overproduction's
-overprotective
-overqualified
-overran
-overrate
-overrated
-overrates
-overrating
-overreach
-overreached
-overreaches
-overreaching
-overreact
-overreacted
-overreacting
-trill's
-trilled
-trilling
-trillion
-trillion's
-trillions
-trillionth
-trillionth's
-trillionths
-trills
-trilogies
-trilogy
-trilogy's
-trim
-trim's
-trimaran
-trimaran's
-trimarans
-trimester
-trimester's
-trimesters
-trimly
-trimmed
-trimmer
-trimmer's
-trimmers
-trimmest
-trimming
-trimming's
-trimmings
-trimmings's
-trimness
-trimness's
-trims
-trinities
-trinity
-trinity's
-trinket
-trinket's
-trinkets
-trio
-trio's
-trios
-trip
-trip's
-tripartite
-tripe
-tripe's
-triple
-triple's
-tripled
-triples
-triplet
-triplet's
-triplets
-triplicate
-triplicate's
-triplicated
-triplicates
-triplicating
-tripling
-triply
-tripod
-tripod's
-tripods
-tripos
-tripped
-tripping
-trips
-triptych
-triptych's
-triptychs
-trisect
-trisected
-trisecting
-trisects
-trite
-tritely
-triteness
-triteness's
-triter
-tritest
-triumph
-triumph's
-triumphal
-triumphant
-triumphantly
-triumphed
-triumphing
-triumphs
-triumvirate
-triumvirate's
-triumvirates
-trivet
-trivet's
-trivets
-trivia
-trivia's
-trivial
-trivialities
-triviality
-triviality's
-trivialize
-trivialized
-trivializes
-trivializing
-trivially
-trochee
-trochee's
-trochees
-trod
-trodden
-troglodyte
-troglodyte's
-troglodytes
-troika
-troika's
-troikas
-troll
-troll's
-trolled
-trolley
-trolley's
-trolleys
-trollies
-trolling
-trollop
-trollop's
-trollops
-trolls
-trolly
-trolly's
-trombone
-trombone's
-trombones
-trombonist
-trombonist's
-trombonists
-tromp
-tromped
-tromping
-tromps
-troop
-troop's
-trooped
-trooper
-trooper's
-troopers
-trooping
-troops
-troopship
-troopship's
-troopships
-trope
-trope's
-tropes
-trophies
-trophy
-trophy's
-jowl
-jowl's
-jowls
-joy
-joy's
-joyed
-joyful
-joyfuller
-joyfullest
-joyfully
-joyfulness
-joyfulness's
-joying
-joyless
-joyous
-joyously
-joyousness
-joyousness's
-joyridden
-joyride
-joyride's
-joyrider
-joyrider's
-joyriders
-joyrides
-joyriding
-joyriding's
-joyrode
-joys
-joystick
-joystick's
-joysticks
-jubilant
-jubilantly
-jubilation
-jubilation's
-jubilee
-jubilee's
-jubilees
-judge
-judge's
-judged
-judgement
-judgement's
-judgemental
-judgements
-judges
-judgeship
-judgeship's
-judging
-judgment
-judgment's
-judgmental
-judgments
-judicature
-judicature's
-judicial
-judicially
-judiciaries
-judiciary
-judiciary's
-judicious
-judiciously
-judiciousness
-judiciousness's
-judo
-judo's
-jug
-jug's
-jugged
-juggernaut
-juggernaut's
-juggernauts
-jugging
-juggle
-juggle's
-juggled
-juggler
-juggler's
-jugglers
-juggles
-juggling
-jugs
-jugular
-jugular's
-jugulars
-juice
-juice's
-juiced
-juicer
-juicer's
-juicers
-juices
-juicier
-juiciest
-juicily
-juiciness
-juiciness's
-juicing
-juicy
-jujitsu
-jujitsu's
-jujube
-jujube's
-jujubes
-jujutsu
-jujutsu's
-jukebox
-jukebox's
-jukeboxes
-julep
-julep's
-juleps
-julienne
-jumble
-jumble's
-jumbled
-jumbles
-jumbling
-jumbo
-jumbo's
-jumbos
-jump
-jump's
-jumped
-jumper
-jumper's
-jumpers
-jumpier
-jumpiest
-jumpiness
-jumpiness's
-jumping
-jumps
-jumpsuit
-jumpsuit's
-jumpsuits
-jumpy
-junco
-junco's
-juncoes
-juncos
-junction
-junction's
-junctions
-juncture
-juncture's
-junctures
-jungle
-jungle's
-jungles
-junior
-junior's
-juniors
-juniper
-juniper's
-junipers
-junk
-junk's
-junked
-junker
-junker's
-junkers
-junket
-junket's
-junketed
-junketing
-junkets
-junkie
-junkie's
-junkier
-junkies
-junkiest
-junking
-junks
-junky
-junky's
-junkyard
-junkyard's
-junkyards
-junta
-junta's
-juntas
-juridical
-juries
-jurisdiction
-jurisdiction's
-jurisdictional
-jurisprudence
-jurisprudence's
-strumming
-strumpet
-strumpet's
-strumpets
-strums
-strung
-strut
-strut's
-struts
-strutted
-strutting
-strychnine
-strychnine's
-stub
-stub's
-stubbed
-stubbier
-stubbiest
-stubbing
-stubble
-stubble's
-stubbly
-stubborn
-stubborner
-stubbornest
-stubbornly
-stubbornness
-stubbornness's
-stubby
-stubs
-stucco
-stucco's
-stuccoed
-stuccoes
-stuccoing
-stuccos
-stuck
-stud
-stud's
-studded
-studding
-student
-student's
-students
-studentship
-studentships
-studied
-studies
-studio
-studio's
-studios
-studious
-studiously
-studs
-study
-study's
-studying
-stuff
-stuff's
-stuffed
-stuffier
-stuffiest
-stuffily
-stuffiness
-stuffiness's
-stuffing
-stuffing's
-stuffings
-stuffs
-stuffy
-stultification
-stultification's
-stultified
-stultifies
-stultify
-stultifying
-stumble
-stumble's
-stumbled
-stumbler
-stumbler's
-stumblers
-stumbles
-stumbling
-stump
-stump's
-stumped
-stumpier
-stumpiest
-stumping
-stumps
-stumpy
-stun
-stung
-stunk
-stunned
-stunning
-stunningly
-stuns
-stunt
-stunt's
-stunted
-stunting
-stunts
-stupefaction
-stupefaction's
-stupefied
-stupefies
-stupefy
-stupefying
-stupendous
-stupendously
-stupid
-stupid's
-stupider
-stupidest
-stupidities
-stupidity
-stupidity's
-stupidly
-stupids
-stupor
-stupor's
-stupors
-sturdier
-sturdiest
-sturdily
-sturdiness
-sturdiness's
-sturdy
-sturgeon
-sturgeon's
-sturgeons
-stutter
-stutter's
-stuttered
-stutterer
-stutterer's
-stutterers
-stuttering
-stutters
-sty
-sty's
-stye
-stye's
-styes
-style
-style's
-styled
-styles
-styli
-styling
-stylish
-stylishly
-stylishness
-stylishness's
-stylist
-stylist's
-stylistic
-stylistically
-stylists
-stylize
-stylized
-stylizes
-stylizing
-stylus
-stylus's
-styluses
-stymie
-stymie's
-stymied
-stymieing
-stymies
-stymying
-styptic
-styptic's
-styptics
-suave
-suavely
-suaver
-suavest
+@wash-out /'wɔʃaut/
+*  danh từ
+- chỗ xói lở (ở đường)
+- (từ lóng) sự thất bại; sự đại bại
+- (từ lóng) người vô tích sự; người làm gì cũng thất bại
+
+@wash-pot /'wɔʃpɔt/
+*  danh từ
+- (từ cổ,nghĩa cổ) chậu rửa bát
+
+@wash-room /'wɔʃrum/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) phòng rửa ráy
+
+@wash-stand /'wɔʃstænd/ (wash-hand-stand) /'wɔʃhænd,stænd/ (washing-stand) /'wɔʃiɳstænd/
+-hand-stand) 
+/'wɔʃhænd,stænd/ (washing-stand) 
+/'wɔʃiɳstænd/
+*  danh từ
+- giá rửa mặt
+
+@wash-tub /'wɔʃtʌb/
+*  danh từ
+- chậu giặt
+
+@wash-up /'wɔʃ'ʌp/
+*  danh từ
+- (như) washing-up
+- vật giạt vào bờ
+
+@washable /'wɔʃəbl/
+*  tính từ
+- có thể giặt được (vải)
+
+@washday /'wɔʃdei/ (washing-day) /'wɔʃiɳdei/
+-day) 
+/'wɔʃiɳdei/
+*  danh từ
+- ngày giặt quần áo (ở nhà)
+
+@washer /'wɔʃə/
+*  danh từ
+- người giặt, người rửa
+- máy giặt (quần áo); máy đãi (quặng)
+- giẻ rửa bát
+- (kỹ thuật) vòng đệm
+
+@washer-up /'wɔʃə'ʌp/
+*  danh từ
+- người rửa bát đĩa
+
+@washerman /'wɔʃəmən/
+*  danh từ
+- thợ giặt
+
+@washerwoman /'wɔʃə'wumən/ (washwoman) /'wɔʃ,wumən/
+*  danh từ
+- chị thợ giặt
+
+@washiness /'wɔʃinis/
+*  danh từ
+- tính chất loãng, tính chất nhạt (đồ ăn, rượu, cà phê...)
+- tính chất nhạt nhẽo; tính chất lòng thòng (văn học)
+
+@washing /'wɔʃiɳ/
+*  danh từ
+- sự tắm rửa, sự tắm gội, sự rửa ráy
+- sự giặt giũ
+- quần áo giặt
+=to hang the washing out to dry+ phơi quần áo giặt
+- sự đãi quặng
+
+@washing-day /'wɔʃdei/ (washing-day) /'wɔʃiɳdei/
+-day) 
+/'wɔʃiɳdei/
+*  danh từ
+- ngày giặt quần áo (ở nhà)
+
+@washing-house /'wɔʃhaus/ (washing-house) /'wɔʃiɳhaus/
+-house) 
+/'wɔʃiɳhaus/
+*  danh từ
+- chỗ giặt quần áo
+- (từ Mỹ,nghĩa Mỹ) hiệu giặt là
+
+@washing-machine /'wɔʃiɳmə,ʃi:n/
+*  danh từ
+- máy giặt
+
+@washing-stand /'wɔʃstænd/ (wash-hand-stand) /'wɔʃhænd,stænd/ (washing-stand) /'wɔʃiɳstænd/
+-hand-stand) 
+/'wɔʃhænd,stænd/ (washing-stand) 
+/'wɔʃiɳstænd/
+*  danh từ
+- giá rửa mặt
+
+@washing-up /'wɔʃiɳ'ʌp/
+*  danh từ
+- việc rửa bát (sau bữa cơm) ((cũng) wash-up)
+
+@washy /'wɔʃi/
+*  tính từ
+- loãng, nhạt, vô vị
+=washy soup+ cháo loãng
+=washy food+ thức ăn nhạt
+=washy wine+ rượu nhạt
+- nhạt, bạc thếch (màu sắc)
+=a washy colour+ màu bạc thếch
+- không mặn mà, nhạt nhẽo; lòng thòng
+=a washy style+ văn lòng thòng nhạt nhẽo
+
+@wasn't /'wɔznt/
+*  (viết tắt) của was not
+
+@wasp /wɔsp/
+*  danh từ
+- (động vật học) ong bắp cày
+
+@wasp-waist /'wɔspweist/
+*  danh từ
+- lưng ong
+
+@wasp-waisted /'wɔsp,weistid/
+*  tính từ
+- thắt đáy lưng ong
+
+@waspish /'wɔspiʃ/
+*  tính từ
+- gắt gỏng, dễ cáu, bẳn tính
+=waspish temper+ tính khí gắt gỏng
+- chua chát, gay gắt, châm chọc; hiểm ác
+=waspish style+ văn châm chọc
+
+@waspishness /'wɔspiʃnis/
+*  danh từ
+- tính gắt gỏng, tính cáu kỉnh
+- tính chua chát, tính hay châm chọc; tính hiểm ác
+
+@wassail /'wɔseil/
+*  danh từ (từ cổ,nghĩa cổ)
+- tiệc rượu vui
+- rượu tiệc (rượu uống trong tiệc rượu)
+*  nội động từ
+- mở tiệc rượu mua vui
+
+@wast /wɔst/
+*  (từ cổ,nghĩa cổ) ngôi 2 số ít thời quá khứ của be
+
+@wastage /'weistidʤ/
+*  danh từ
+- sự hao phí, sự lãng phí, sự mất mát, sự phí phạm
+- số lượng hao hụt, số lãng phí
+
+@waste /weist/
+*  tính từ
+- bỏ hoang, hoang vu (đất)
+=waste land+ đất hoang
+=to lie waste+ để hoang; bị bỏ hoang
+- bị tàn phá
+=to lay waste+ tàn phá
+- bỏ đi, vô giá trị, không dùng nữa, bị thải đi
+=waste gas; waste steam+ khí thừa
+=waste paper+ giấy lộn, giấy vứt đi
+=waste water+ nước thải, nước bẩn đổ đi
+- vô vị, buồn tẻ
+=the waste periods of history+ những thời kỳ vô vị của lịch sử
+*  danh từ
+- sa mạc; vùng hoang vu, đất hoang
+=the wastes of the Sahara+ sa mạc Xa-ha-ra
+- rác rưởi; thức ăn thừa
+- (kỹ thuật) vật thải ra, vật vô giá trị không dùng nữa
+=printing waste+ giấy in còn lại; giấy vụn sau khi đóng sách
+- sự phung phí, sự lãng phí; sự hao phí
+=it's a sheer waste of time+ thật chỉ phí thì giờ
+=to run (go) to waste+ uổng phí đi
+=to prevent a waste of gas+ để ngăn ngừa sự hao phí hơi đốt
+*  ngoại động từ
+- lãng phí
+=to waste one's time+ lãng phí thì giờ
+=to waste one's words+ nói uổng lời
+=waste not, want not+ không phung phí thì không túng thiếu
+- (từ Mỹ,nghĩa Mỹ) bỏ qua, để lỡ
+=to waste one's chance+ để lỡ cơ hội
+- bỏ hoang (đất đai)
+- tàn phá
+- làm hao mòn dần
+=a wasting disease+ một bệnh làm hao mòn sức khoẻ
+- (pháp lý) làm hư hỏng, làm mất phẩm chất (của vật gì)
+*  nội động từ
+- lãng phí, uổng phí
+=don't let water waste+ đừng để nước chảy phí đi
+- hao mòn
+=to waste away+ gầy mòn ốm yếu đi
+- (từ cổ,nghĩa cổ) trôi qua (ngày, tháng...)
+=the day wastes+ ngày trôi qua
+
+@waste-basket /'weist,bɑ:skit/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) (như) waste-paper-basket
+
+@waste-book /'weistbuk/
+*  danh từ
+- (kế toán) sổ ghi tạm
+
+@waste-paper-basket /weist'peipə,bɑ:skit/
+*  danh từ
+- sọt giấy vụn, sọt rác
+=to be fit for the waste-paper-basket+ chỉ đáng vứt vào sọt rác
+
+@waste-pipe /'weistpaip/
+*  danh từ
+- ống thoát nước bẩn
+
+@wasteful /'weistful/
+*  tính từ
+- lãng phí, hoang phí, tốn phí
+=wasteful expenditure+ sự chi tiêu tốn phí
+=a wasteful person+ một người hay lãng phí
+
+@wastefulness /'weistfulnis/
+*  danh từ
+- sự lãng phí, sự hoang phí
+
+@waster /'weistə/
+*  danh từ ((cũng) wastrel)
+- người lãng phí, người hoang phí
+- (kỹ thuật) phế phẩm; sản phẩm hỏng
+- (từ lóng) người vô dụng
+
+@wasting /'westiɳ/
+*  danh từ
+- sự tàn phá, sự phá hoại
+- sự hao mòn dần
+*  tính từ
+- tàn phá, phá hoại
+=a wasting storm+ một trận bão tàn phá
+- làm hao mòn dần
+=a wasting disease+ một bệnh làm hao mòn dần sức khoẻ
+=a wasting care+ mối lo lắng mòn mỏi
+
+@wastrel /'weistrəl/
+*  danh từ
+- (như) waster
+- (thông tục) lưu manh, cặn bã của xã hội; trẻ sống cầu bơ cầu bất
+
+@watch /wɔtʃ/
+*  danh từ
+- đồng hồ quả quít; đồng hồ đeo tay
+*  danh từ
+- sự canh gác, sự canh phòng
+=to keep a close (good) watch over+ canh phòng nghiêm ngặt
+- người canh gác, người canh phòng; người gác, người trực
+- tuần canh, phiên canh, phiên gác
+- (hàng hải) tổ trực (trên tàu thuỷ)
+- (từ hiếm,nghĩa hiếm) sự thức đêm; buổi thức đêm
+!to be on the watch
+- canh phòng, canh gác
+- thấp thỏm chờ; cảnh giác chờ đón
+*  nội động từ
+- thức canh, gác đêm
+- (từ hiếm,nghĩa hiếm) thức, thức đêm
+=to watch all night+ thức suốt đêm
+*  ngoại động từ
+- canh gác; trông nom
+=to watch the clothes+ trông nom quần áo
+- rình, theo dõi
+=to watch a mouse+ rình một con chuột
+=the suspect is watched by the police+ kẻ tình nghi bị công an theo dõi
+- nhìn xem, quan sát, để ý xem
+=to watch the others play+ nhìn những người khác chơi
+- chờ
+=to watch one's opportunity+ chờ cơ hội
+=to watch one's time+ chời thời
+!to watch after
+- nhìn theo, theo dõi
+!to watch for
+- chờ, rình
+=to watch for the opportunity to occur+ chờ cơ hội
+- (từ Mỹ,nghĩa Mỹ) quan sát, để ý xem
+=to watch for the symptoms of measles+ quan sát triệu chứng của bệnh sởi
+!to watch out
+- chú ý, để ý, coi chừng
+!to watch over
+- trông nom, canh gác
+!to make someone watch his step
+- bắt ai phải vào khuôn phép, bắt ai phải phục tùng
+!to watch one's step
+- đi thận trọng (cho khỏi ngã)
+- giữ gìn, thận trọng (cho khỏi sai lầm, cho khỏi bị thua thiệt)
+!watched pot never boils
+- (xem) pot
+
+@watch-case /'wɔtʃkeis/
+*  danh từ
+- vỏ đồng hồ
+
+@watch-chain /'wɔtʃtʃein/
+*  danh từ
+- dây đồng hồ
+
+@watch-glass /'wɔtʃglɑ:s/
+*  danh từ
+- kính đồng hồ
+
+@watch-guard /'wɔtʃgɑ:d/
+*  danh từ
+- dây đồng hồ (đeo ở áo)
+
+@watch-maker /'wɔtʃ,meikə/
+*  danh từ
+- thợ đồng hồ
+
+@watch-night /'wɔtʃnait/
+*  danh từ
+- đêm giao thừa
+
+@watch-pocket /'wɔtʃ,pɔkit/
+*  danh từ
+- túi để đồng hồ (ở áo gi lê)
+
+@watch-tower /'wɔtʃ,tauə/
+*  danh từ
+- chòi canh
+
+@watchdog /'wɔtʃdɔg/
+*  danh từ
+- chó giữ nhà
+
+@watcher /'wɔtʃə/
+*  danh từ
+- người thức canh, người canh đêm
+- người rình
+- (từ Mỹ,nghĩa Mỹ) người quan sát theo dõi (tình hình)
+= Vietnam watcher+ người quan sát theo dõi tình hình Việt nam
+
+@watchful /'wɔtʃful/
+*  tính từ
+- thận trọng, cảnh giác, đề phòng
+=to be watchful against temptations+ đề phòng bị cám dỗ
+=to be watchful of one's behaviour+ thận trọng trong cách ăn ở của mình
+- thức, thao thức, không ngủ
+
+@watchfulness /'wɔtʃfulnis/
+*  danh từ
+- tính thận trọng, tính cảnh giác
+- sự đề phòng, sự để ý
+
+@watchman /'wɔtʃmən/
+*  danh từ
+- người gác (một công sở...)
+- (từ cổ,nghĩa cổ) trương tuần
+
+@watchword /'wɔtʃwə:d/
+*  danh từ
+- (quân sự) khẩu lệnh
+- khẩu hiệu (của đảng phái chính trị...)
+
+@water /'wɔ:tə/
+*  danh từ
+- nước
+=to drink water+ uống nước
+=to take in fresh water+ (hàng hải) lấy nước ngọt (để đi biển)
+=to turn on the water+ mở nước
+=to cut off the water+ khoá nước
+=to wash something in two or three waters+ rửa vật gì hai hay ba nước
+- dung dịch nước, nước
+- khối nước (của sông, hồ...)
+- sông nước; biển; đường thuỷ
+=on land and water+ trên bộ và dưới nước
+=by water+ bằng đường thuỷ, bằng đường biển
+=to cross the water+ vượt biển
+- thuỷ triều, triều
+=at high water+ lúc triều lên
+=at low water+ lúc triều xuống
+- nước suối; nước tiểu
+=to take the waters at+ tắm nước suối ở
+=to make water+ tiểu tiện
+=red water+ nước tiểu có máu
+- nước, nước bóng, nước láng (của kim cương, kim loại, tơ lụa)
+=diamond of the first water+ kim cương nước tốt nhất
+- (hội họa) tranh màu nước
+!to back water
+- chèo ngược
+!to be in deep water(s)
+- (xem) deep
+!to be in low water
+- (xem) low
+!to be in smooth water
+- ở vào hoàn cảnh thuận lợi; thuận buồm xuôi gió
+!to bring water to someone's mouth
+- làm ai thèm chảy dãi
+!to cast (throw) one's bread upon the water(s)
+- làm điều tốt không cần được trả ơn
+!to go through fire and water
+- (xem) fire
+!to hold water
+- (xem) hold
+!to keep one's head above water
+- (xem) above
+!like a fish out of water
+- như cá trên cạn; lạc lõng bỡ ngỡ trong một môi trường mới lạ
+!to spend money like water
+- tiêu tiền như nước
+!still waters run deep
+- (xem) deep
+!to throw cold water on
+- giội gáo nước lạnh vào; làm cho nản chí
+!written in water
+- nhất thời (tiếng tăm); chóng bị quên (thành tích)
+*  ngoại động từ
+- tưới, tưới nước
+=to water a district+ tưới một miền
+- cho uống nước
+=to water the buffaloes+ cho trâu uống nước
+- cung cấp nước
+=to water a town+ cung cấp nước cho một thành phố
+- pha nước vào
+- làm gợn sóng, làm cho có vân sóng (trên tơ lụa)
+=watered silk+ lụa có vân sóng
+- (tài chính) làm loãng (vốn)
+=to the nominal capital of the company+ làm loãng vốn danh nghĩa của công ty (bằng cách tăng cổ phần mà không có vốn tương xứng)
+*  nội động từ
+- uống nước, đi uống nước
+=the horses are watering+ những con ngựa đang uống nước
+- lấy nước ngọt, lấy nước (tàu thuỷ, ô tô)
+- chảy nước, ứa nước
+=his eyes watered+ nó chảy nước mắt
+=to make one's mouth water+ làm thèm chảy nước dãi
+!to water down
+- giảm bớt đi, làm dịu đi
+=to water down the details of a story+ làm cho chi tiết của câu chuyện bớt đậm nét
+=to water down a blame+ trách khéo, trách ngọt
+
+@water bus /'wɔ:tə'bʌs/
+*  danh từ
+- ca nô (chở khách)
+
+@water pump /'wɔ:tə'pʌmp/
+*  danh từ
+- máy bơm nước
+
+@water system /'wɔ:tə'sistim/
+*  danh từ
+- hệ thống dẫn nước
+
+@water-bed /'wɔ:təbed/
+*  danh từ
+- (y học) nệm nước (bằng cao su, trong có nước, cho bệnh nhân nằm)
+
+@water-biscuit /'wɔ:tə,biskit/
+*  danh từ
+- bánh quy cứng
+
+@water-boat /'wɔ:təbout/
+*  danh từ
+- tàu thuỷ chở nước ngọt
+
+@water-borne /'wɔ:təbɔ:n/
+*  tính từ
+- chở bằng đường thuỷ (hàng)
+- (y học) lây lan bằng nước uống (bệnh)
+
+@water-bottle /'wɔ:tə,bɔtl/
+*  danh từ
+- bình đựng nước,  carap (ở bàn ăn...); bi đông
+
+@water-buffalo /'wɔ:tə'bʌfəlou/
+*  danh từ
+- (động vật học) con trâu
+
+@water-carriage /'wɔ:tə,kæridʤ/
+*  danh từ
+- sự vận tải bằng đường thuỷ
+
+@water-cart /'wɔ:təkɑ:t/ (water-wagon) /'wɔ:tə,wægən/ (water-waggon) /'wɔ:tə,wægən/
+-wagon) 
+/'wɔ:tə,wægən/ (water-waggon) 
+/'wɔ:tə,wægən/
+*  danh từ
+- xe bán nước
+- xe tưới đường
+
+@water-closet /'wɔ:tə,klɔzit/
+*  danh từ
+- nhà xí máy
+
+@water-colour /'wɔ:tə,kʌlə/
+*  danh từ
+- hoạ màu nước
+- tranh màu nước
+
+@water-cooled /'wɔ:təku:ld/
+*  tính từ
+- (kỹ thuật) làm lạnh bằng nước (máy)
+
+@water-craft /'wɔ:təkrɑ:ft/
+*  danh từ
+- tàu; tàu bè
+- tài lái tàu; tài bơi, tài lặn
+
+@water-cure /'wɔ:təkjuə/
+*  danh từ
+- (y học) phép chữa bằng nước
+
+@water-dog /'wɔ:tədɔg/
+*  danh từ
+- (động vật học) chó bơi giỏi
+-(đùa cợt) thuỷ thủ lão luyện; người bơi giỏi
+
+@water-drinker /'wɔ:tə,driɳkə/
+*  danh từ
+- người kiêng rượu
+
+@water-engine /'wɔ:tə,endʤin/
+*  danh từ
+- máy bơm nước
+- ô tô chữa cháy
+
+@water-front /'wɔ:təfrʌnt/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) khu cảng; bờ sông; bến tàu, bến cảng
+
+@water-gate /'wɔ:təgeit/
+*  danh từ
+- cửa cống
+
+@water-gauge /'wɔ:təgeidʤ/
+*  danh từ
+- cái đo mực nước (trong nồi hơi...)
+
+@water-glass /'wɔ:təglɑ:s/
+*  danh từ
+- ống nhìn vật chìm
+- (hoá học) dung dịch natri silicat (dùng để phết vào ngoài trứng cho để được lâu...)
+
+@water-hen /'wɔ:təhen/
+*  danh từ
+- (động vật học) gà nước
+- chim sâm cầm
+
+@water-hole /'wɔ:təhoul/
+*  danh từ
+- vũng nước
+
+@water-ice /'wɔ:tə'ais/
+*  danh từ
+- kem nước đá, xê cô
+
+@water-level /'wɔ:tə,levl/
+*  danh từ
+- mực nước (trong bình, dưới đất...)
+- (kỹ thuật) ống thuỷ
+
+@water-lily /'wɔ:tə,lili/
+*  danh từ
+- (thực vật học) cây súng
+
+@water-line /'wɔ:təlain/
+*  danh từ
+- (hàng hải) mớn nước, ngấn nước (ở tàu...)
+
+@water-main /'wɔ:təmein/
+*  danh từ
+- ống dẫn nước chính
+
+@water-melon /'wɔ:tə,melən/
+*  danh từ
+- quả dưa hấu
+- (thực vật học) cây dưa hấu
+
+@water-mill /'wɔ:təmil/
+*  danh từ
+- cối xay nước
+
+@water-nymph /'wɔ:tə'nimf/
+*  danh từ
+- nữ thuỷ thần (thần thoại Hy lạp) ((cũng) naiad)
+
+@water-pipe /'wɔ:təpaip/
+*  danh từ
+- ống nước
+
+@water-plane /'wɔ:təplein/
+*  danh từ
+- (hàng hải) mặt phẳng ngấn nước (ở thành tàu)
+
+@water-plant /'wɔ:təplɑ:nt/
+*  danh từ
+- (thực vật học) cây ở nước
+
+@water-polo /'wɔ:tə'poulou/
+*  danh từ
+- (thể dục,thể thao) bóng nước
+
+@water-power /'wɔ:tə,pauə/
+*  danh từ
+- sức nước, than trắng
+
+@water-ram /'wɔ:təræm/
+*  danh từ
+- (kỹ thuật) bơm nước va
+
+@water-shoot /'wɔ:təʃu:t/
+*  danh từ
+- máng xối (ở mái nhà)
+
+@water-sick /'wɔ:təsik/
+*  tính từ
+- (nông nghiệp) cằn cỗi vì tưới đẫm nước quá (đất trồng)
+
+@water-skin /'wɔ:təskin/
+*  danh từ
+- túi da đựng nước
+
+@water-soluble /'wɔ:tə,sɔljubl/
+*  tính từ
+- hoà tan trong nước
+
+@water-supply /'wɔ:təsə,plai/
+*  danh từ
+- việc cung cấp nước
+- hệ thống cung cấp nước
+- khối nước trữ để cung cấp
+
+@water-table /'wɔ:tə,teibl/
+*  danh từ
+- mức nước ngầm
+
+@water-tower /'wɔ:tə,tauə/
+*  danh từ
+- tháp nước
+
+@water-waggon /'wɔ:təkɑ:t/ (water-wagon) /'wɔ:tə,wægən/ (water-waggon) /'wɔ:tə,wægən/
+-wagon) 
+/'wɔ:tə,wægən/ (water-waggon) 
+/'wɔ:tə,wægən/
+*  danh từ
+- xe bán nước
+- xe tưới đường
+
+@water-wagon /'wɔ:təkɑ:t/ (water-wagon) /'wɔ:tə,wægən/ (water-waggon) /'wɔ:tə,wægən/
+-wagon) 
+/'wɔ:tə,wægən/ (water-waggon) 
+/'wɔ:tə,wægən/
+*  danh từ
+- xe bán nước
+- xe tưới đường
+
+@water-wall /'wɔ:təwɔ:l/
+*  danh từ
+- đê, đập
+
+@water-waving /'wɔ:təweiviɳ/
+*  danh từ
+- sự uốn làn sóng (tóc)
+
+@water-wheel /'wɔ:təwi:l/
+*  danh từ
+- bánh xe nước
+
+@water-wings /'wɔ:təwiɳz/
+*  danh từ số nhiều
+- phao tập bơi
+
+@water-worn /'wɔ:təwɔ:n/
+*  tính từ
+- bị nước bào mòn
+
+@waterage /'wɔ:təridʤ/
+*  danh từ
+- sự vận tải đường thuỷ
+- cước phí vận tải đường thuỷ
+
+@watercourse /'wɔ:təkɔ:s/
+*  danh từ
+- sông, suối
+- lòng sông, lòng suối
+
+@watercress /'wɔ:təkres/
+*  danh từ
+- (thực vật học) cải xoong
+
+@watered /'wɔ:təd/
+*  tính từ
+- pha nước, pha loãng (rượu...)
+- có nhiều sông hồ (miền)
+- có vân sóng (lụa)
+
+@waterer /'wɔ:tərə/
+*  danh từ
+- người tưới nước
+- người dẫn súc vật đi uống nước
+
+@waterfall /'wɔ:təfɔ:l/
+*  danh từ
+- thác nước
+
+@waterfowl /'wɔ:təfaul/
+*  danh từ
+- (động vật học) chim ở nước (mòng két, le le...)
+
+@wateriness /'wɔ:tərinis/
+*  danh từ
+- tính chất ướt, tính chất có nước
+- tính chất loãng, tính chất nhạt
+- màu bạc thếch
+- tính chất nhạt nhẽo vô vị
+
+@watering /'wɔ:təriɳ/
+*  danh từ
+- sự tưới, sự tưới nước
+- sự cho súc vật uống nước
+- sự pha nước, sự pha loãng (rượu, sữa...)
+- (kỹ thuật) sự cung cấp nước (cho máy)
+- sự làm vân sóng (cho tơ lụa)
+- (tài chính) sự làm loãng (vốn, nợ)
+
+@watering-can /'wɔ:təriɳkæn/ (watering-pot) /'wɔ:təriɳpɔt/
+-pot) 
+/'wɔ:təriɳpɔt/
+*  danh từ
+- bình tưới
+
+@watering-cart /'wɔ:təriɳkɑ:t/
+*  danh từ
+- xe tưới đường
+
+@watering-place /'wɔ:təriɳpleis/
+*  danh từ
+- nơi cho súc vật uống nước
+- nơi có suối chữa bệnh
+- chỗ tàu ghé lấy nước
+- bãi biển (để tắm, nghỉ mát)
+
+@watering-pot /'wɔ:təriɳkæn/ (watering-pot) /'wɔ:təriɳpɔt/
+-pot) 
+/'wɔ:təriɳpɔt/
+*  danh từ
+- bình tưới
+
+@waterish /'wɔ:təriʃ/
+*  tính từ
+- lắm nước (quả)
+- ẩm thấp (không khí)
+
+@waterless /'wɔ:təlis/
+*  tính từ
+- không có nước; khô, hạn
+
+@waterlogged /'wɔ:təlɔgd/
+*  tính từ
+- nặng vì đẫy nước (gỗ)
+- úng nước, ngập nước (đất)
+- (hàng hải) đầy nước
+=a waterlogged ship+ một chiếc tàu đầy nước
+
+@waterlogging /'wɔ:təlɔgiɳ/
+*  danh từ
+- sự úng nước
+
+@waterman /'wɔ:təmən/
+*  danh từ
+- người làm nghề chạy thuyền; người chuyên chở đường sông
+
+@watermark /'wɔ:təmɑ:k/
+*  danh từ
+- ngấn nước (trong giếng, ở bãi biển, bãi sông)
+- hình mờ (ở tờ giấy, soi lên mới thấy rõ)
+
+@waterproof /'wɔ:təpru:f/
+*  tính từ
+- không thấm nước
+*  danh từ
+- áo mưa
+- vải không thấm nước
+*  ngoại động từ
+- làm cho không thấm nước
+
+@watershed /'wɔ:təʃed/
+*  danh từ
+- đường phân nước
+- lưu vực sông
+- dốc có nước chảy
+
+@waterside /'wɔ:təsaid/
+*  danh từ
+- bờ biển, bờ sông, bờ hồ
+
+@waterspout /'wɔ:təspaut/
+*  danh từ
+- ống máng, máng xối
+- vòi rồng; cây nước
+
+@watertight /'wɔ:tətait/
+*  tính từ
+- kín nước
+- (nghĩa bóng) không thể cãi, không công kích được; vững chắc, chặt chẽ (lập luận, lý lẽ...)
+
+@waterway /'wɔ:təwei/
+*  danh từ
+- đường sông tàu bè qua lại được
+
+@waterworks /'wɔ:təwə:ks/
+*  danh từ số nhiều
+- hệ thống cung cấp nước
+- vòi phun nước (ở công viên...)
+!to turn on the waterworks
+- (từ lóng) khóc
+
+@watery /'wɔ:təri/
+*  tính từ
+- ướt, đẫm nước, sũng nước
+=watery eyes+ mắt đẫm lệ
+=watery clouds+ mây sũng nước, mây mưa
+=watery weather+ tiết trời ướt át
+- loãng, lỏng, nhạt
+=watery soup+ cháo loãng
+- bạc thếch (màu)
+=watery colour+ màu bạc thếch
+- nhạt nhẽo, vô vị
+=watery style+ văn nhạt nhẽo
+=watery talk+ câu chuyện nhạt nhẽo
+
+@watt /wɔt/
+*  danh từ
+- (điện học) oát
+
+@watt-hour /'wɔt,auə/
+*  danh từ
+- (điện học) oát giờ
+
+@wattle /'wɔtl/
+*  danh từ
+- yếm thịt (ở dưới cổ gà tây)
+- râu cá
+*  danh từ
+- cọc, cừ (để giữ đất khỏi lở)
+- phên, liếp
+- (thực vật học) cây keo
+*  ngoại động từ
+- đan (que...) thành phên liếp
+- làm (tường, hàng rào...) bằng phên liếp
+
+@wattle and daub /'wɔtlən'dɔ:b/
+*  danh từ
+- phên trét đất (bùn)
+
+@wattmeter /'wɔt,mi:tə/
+*  danh từ
+- (điện học) cái đo oát
+
+@waul /wɔ:l/
+*  nội động từ
+- kêu meo meo (mèo)
+
+@wave /weiv/
+*  danh từ
+- sóng, làn sóng ((nghĩa đen) & (nghĩa bóng))
+=the waves+ (thơ ca) biển cả
+=long waves+ (rađiô) làn sóng dài
+=wave motion+ chuyển động sóng
+=permanent wave+ tóc làn sóng giữ lâu không mất quăn
+=a wave of revolution+ làn sóng cách mạng
+- đợt
+=in waves+ từng đợt, lớp lớp
+=to attack in waves+ tấn công từng đợt
+- sự vẫy tay ra hiệu; cái vẫy tay
+*  nội động từ
+- gợn sóng, quăn thành làn sóng
+=the field of corn is waving in the breeze+ cánh đồng lúa gợn sóng dưới làn gió nhẹ
+=hair waves naturally+ tóc quăn tự nhiên
+- phấp phới, phấp phới bay
+=the red flag waved in the wind+ lá cờ đỏ phấp phới bay trước gió
+- vẫy tay ra hiệu
+=to wave to someone+ vẫy tay ra hiệu cho ai
+*  ngoại động từ
+- phất, vung
+=to wave a banner+ phất cờ
+=to wave a sword+ vung gươm (đi đầu để động viên...)
+- uốn (tóc) thành làn sóng
+=to have one's hair waved+ đem uốn tóc thành làn sóng
+- vẫy tay ra hiệu
+=to wave someone aside+ vẫy tay ra hiệu cho ai đứng ra một bên
+!to wave aside
+- bác bỏ, gạt bỏ
+
+@wave-length /'weivleɳθ/
+*  danh từ
+- (vật lý) bước sóng
+
+@waveless /'weivlis/
+*  tính từ
+- không có sóng, không gợn sóng, lặng sóng
+
+@wavelet /'weivlit/
+*  danh từ
+- sóng gợn lăn tăn
+- làn sóng hơi quăn (tóc)
+=hair in wavelets+ tóc hơi quăn làn sóng
+
+@waver /'weivə/
+*  nội động từ
+- rung rinh, chập chờn (ngọn lửa); rung rung (giọng nói)
+=wavering flames+ ngọn lửa rung rinh
+- (quân sự) nao núng, núng thế
+=the line of enemy troops wavered and then broke+ đoàn quân địch núng thế rồi tan rã
+- (nghĩa bóng) lung lay, do dự, lưỡng lự, ngập ngừng; dao động
+=to waver between two opinions+ lưỡng lự giữa hai ý kiến
+
+@waverer /'weivərə/
+*  danh từ
+- người do dự, người lưỡng lự; người dao động
+
+@wavering /'weivəriɳ/
+*  tính từ
+- rung rinh, chập chờn (ngọn lửa); rung rung (giọng nói)
+- (quân sự) nao núng, núng thế
+- (nghĩa bóng) lung lay, do dự, lưỡng lự; dao động
+
+@waviness /'weivinis/
+*  tính từ
+- tình trạng có gợn sóng; sự quăn làn sóng tự nhiên (tóc)
+
+@wavy /'weivi/
+*  tính từ
+- gợn sóng; giập giờn, lăn tăn (mặt hồ, cánh đồng lúa...); quăn làn sóng (tóc)
+
+@wax /wæks/
+*  danh từ
+- sáp ong ((cũng) beeswax)
+- chất sáp
+=vegetable wax+ sáp thực vật
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đĩa hát
+!like wax in someone's hands
+- bị ai sai khiến, cho tròn được tròn bắt méo phải méo
+*  ngoại động từ
+- đánh sáp, đánh bóng bằng sáp, bôi sáp, vuốt sáp
+=to wax a table+ đánh bóng bàn bằng sáp
+=to wax a thread+ vuốt sáp một sợi chỉ
+*  nội động từ
+- tròn dần (trăng)
+=the moon waxes and wanes+ mặt trăng khi tròn khi khuyết
+- (từ cổ,nghĩa cổ) trở nên
+=to wax merry+ trở nên vui vẻ
+=to wax indignant+ nổi cơn phẫn nộ
+*  danh từ
+- (từ lóng) cơn giận
+=to be in a wax+ đang nổi giận
+=to get in a wax+ nổi giận
+=to put someone in a wax+ làm cho ai nổi giận
+
+@wax candle /'wæks'kændl/
+*  danh từ
+- nến (bằng sáp)
+
+@wax doll /'wæksdɔl/
+*  danh từ
+- búp bê sáp
+- (nghĩa bóng) người đàn bà xinh đẹp nhưng không tinh anh
+
+@wax-chandler /'wæks,tʃɑ:ndlə/
+*  danh từ
+- người làm nến
+- người bán nến
+
+@wax-palm /'wæks'pɑ:m/
+*  danh từ
+- (thực vật học) cây cọ sáp
+
+@wax-paper /'wæks,peipə/
+*  danh từ
+- giấy nến
+
+@waxcloth /'wæksklɔθ/
+*  danh từ
+- vải nến,  linôlêum
+
+@waxen /'wæksən/
+*  tính từ
+- giống sáp; màu sáp, vàng nhạt (như sáp)
+=a waxen complexion+ nước da vàng nhạt
+- (nghĩa bóng) mềm yếu, dễ ảnh hưởng; dễ uốn nắn
+=waxen character+ tính mềm yếu
+- (từ cổ,nghĩa cổ) bằng sáp
+
+@waxwork /'wækswə:k/
+*  danh từ
+- thuật nặn hình bằng sáp
+- hình nặn bằng sáp
+- (số nhiều) viện bảo tàng đồ sáp (trưng bày các hình nặn bằng sáp, như viện bảo tàng Grê-vanh ở Pa-ri)
+
+@waxy /'wæksi/
+*  tính từ
+- giống sáp; có màu sáp, vàng nhợt nhạt
+=waxy complexion+ nước da nhợt nhạt
+- (y học) thoái hoá sáp (gan...)
+- (từ lóng) nóng tính, hay cáu
+
+@way /wei/
+*  danh từ
+- đường, đường đi, lối đi
+=way in+ lối vào
+=way out+ lối ra
+=way through+ lối đi qua
+=a public way+ con đường công cộng
+=covered way+ lối đi có mái che, nhà cầu
+=permanent way+ nền đường sắt (đã làm xong)
+=to be on one's way to+ trên đường đi tới
+=on the way+ dọc đường
+=to be under way+ đang đi, đang trên đường đi (nghĩa bóng) đang tiến hành
+=to lose one's+ lạc đường
+=to find way home+ tìm đường về nhà
+=to block (stop) the way+ ngăn (chặn, chắn) đường
+=to clear the way+ dọn đường; mở thông đường
+=to make the best of one's way+ đi thật nhanh
+=to make way for+ tránh đường cho, để cho qua
+=to pave the way for+ mở đường cho, chuẩn bị cho
+=in the way+ làm trở ngại, chặn lối, ngáng đường
+=to be in someone's way+ làm trở ngại ai, ngáng trở ai
+=to get out of the way of someone+ tránh khỏi đường đi của ai
+=to stand in the way of someone+ chặn đường (tiến lên) của ai
+- đoạn đường, quãng đường, khoảng cách
+=it's a long way from Hanoi+ cách Hà nội rất xa
+=to go a long way+ đi xa
+=to be still a long way off perfection+ còn xa mới hoàn mỹ được
+- phía, phương, hướng, chiều
+=the right way+ phía phải; (nghĩa bóng) con đường ngay, con đường đúng
+=the wrong way+ phía trái; (nghĩa bóng) con đường sai lầm
+=which way is the wind blowing?+ gió thổi theo phương nào?
+=this way+ hướng này
+=this way out+ đường ra phía này
+- cách, phương pháp, phương kế, biện pháp
+=in no way+ chẳng bằng cách nào
+=to go the right way to+ chọn cách tốt để
+=to go one's own way+ làm theo cách của mình
+=to see one's way to+ có cách để
+=to find way to+ tìm ra cách để
+=to have one's own way+ làm theo ý muốn; muốn gì được nấy
+=where there is a will there is a way+ có chí thì nên
+- cá tính, lề thói
+=in the way of business+ theo thói thường, theo lề thói
+=English ways of living+ lối sống Anh
+=in a friendly way+ một cách thân mật
+=way of speaking+ cách nói
+=it is his way+ đó là cá tính của nó
+=it is the way of the world+ lề thói chung là thế; mọi người cũng làm như thế cả
+=ways and customs+ phong tục lề thói
+=to be ignorant of the ways of society+ không biết phép xã giao
+- việc; phạm vi, thẩm quyền
+=it is not in my way; it does not lie (come, fall) in my way+ không phải việc của tôi; không thuộc thẩm quyền của tôi
+- (thông tục) vùng ở gần
+=to live somewhere Hanoi way+ ở đâu đó gần Hà nội
+- tình trạng, tình thế, tình hình; giả định, giả thuyết
+=to be in a bad way+ ở vào tình trạng xấu
+=to be in a fair way of (to)+ ở trong tình thế thuận lợi để
+- mức độ, chừng mực
+=in a small way+ ở mức thấp, tầm thường; nho nhỏ
+- loại
+=something in the way of stationery+ cái gì đó thuộc loại đồ dùng văn phòng
+- mặt, phương diện
+=in many ways+ về nhiều mặt
+=in no way+ chẳng mặt nào, tuyệt nhiên không
+- sự tiến bộ, sự thịnh vượng
+=to make one's [own] way+ làm ăn thịnh vượng
+=to make way+ tiến, tiến bộ
+- quy mô; ngành kinh doanh; phạm vi hoạt động
+=way of business+ ngành kinh doanh
+=to be in a large way of business+ kinh doanh quy mô lớn
+- (hàng hải) sự chạy; tốc độ
+=to gather way+ tăng tốc độ
+=to lose way+ giảm tốc độ
+=to get under way+ lên đường, khởi hành, nhổ neo; khởi công
+=to be under way; to have way on+ đang chạy (tàu thuỷ)
+- (từ Mỹ,nghĩa Mỹ) đằng
+=way ahead (back, down, off, up)+ đằng trước (đằng sau, phía dưới, đằng xa, phía trên)
+=to know someone way back in 1950+ quen biết người nào từ năm 1950
+!by the way
+- (xem) by
+!by way of
+- đi qua, bằng con đường
+=by way of Haiphong+ bằng con đường Hải phòng, qua Hải phòng
+- như là, coi như là, như thể
+=by way of compliment+ như là một lời khen
+!the farthest way about is the nearest way home
+!the longest way round is the shortest way home
+- (tục ngữ) đường chính lại gần, đường tắt hoá xa
+!to give way
+- (xem) give
+!to go out of one's way to be rude
+- hỗn xược một cách vô cớ
+!to go the way of all the earth
+!to go the way of all flesh
+!to go the way of nature
+- (xem) go
+!to lead the way
+- (xem) lead
+!parting of the ways
+- (xem) parting
+!to put oneself out of the way
+- chịu phiền chịu khó để giúp người khác
+
+@way-bill /'weibil/
+*  danh từ
+- bản kê khai hàng hoá; danh sách hành khách (trên một chuyến tàu...)
+
+@way-leave /'weili:v/
+*  danh từ
+- phép đi qua
+- (hàng không) quyền bay qua
+
+@way-station /'wei,steiʃn/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (ngành đường sắt) ga xép
+@vertex
+- đỉnh; (thiên văn) thiên đỉnh
+- v. of an angle đỉnh của một góc
+- v. of a cone đỉnh của một tam giác
+- neutral v. đỉnh trung tính; đỉnh trung hoà 
+@vertical
+- thẳng đứng
+@vertically
+- một cách thẳng đứng
+@vertices
+- các đỉnh
+- adjacent v. các đỉnh kề
+- neighbouring v. các đỉnh lân cận
+- opposite v. of a polygon các đỉnh đối (của một đa diện) 
+@vessel
+- (kỹ thuật) tàu, thuyền
+@vibrate
+- dao động, chấn động, rung động
+@vibration
+- (vật lí) sự dao động, sự chấn động, sự rung
+- v. of the second order chấn động cấp hai
+- damped v. dao động tắt dần
+- forced v. dao động cưỡng bức
+- harmonic v. dao động điều hoà
+- inaudible v. dao động không nghe thấy được
+- lateral v. dao động ngang
+- longitudinal v. dao động dọc
+- natural v. dao động co lắc
+- sinusoidal v. dao động sin
+- standing v. dao động đứng
+- sympathetic v. chấn động đáp lại
+- torsional v. dao động xoắn 
+@vibrational
+- có dao động, có chấn động, có rung động
+@vibrator
+- (kỹ thuật) cái dao động; [cái, bộ] rung
+- asymmetric(al) v. cái dao động không đối xứng
+@vice versa
+- ngược lại
+@vicinity
+- lân cận in the v. of... gần ...
+- v. of a point lân cận của một điểm 
