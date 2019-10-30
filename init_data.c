@@ -1,46 +1,53 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-#include<ctype.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
 #include "btree.h"
 
-
-void create_soundexz_tree() {
+void create_soundexz_tree()
+{
     char *file_name = "auto-complete.db";
     int i;
     BTA *complete_tree;
     complete_tree = btopn(file_name, 0, 1);
-    if (complete_tree == NULL) {
+    if (complete_tree == NULL)
+    {
         complete_tree = btcrt(file_name, 0, 1);
-    } 
+    }
 
-    FILE *f = fopen("/usr/share/dict/words","r");
-    // FILE *f = fopen("test2.txt", "r");
+    // FILE *f = fopen("/usr/share/dict/words","r");
+    FILE *f = fopen("test.txt", "r");
     char word[50];
-    char temp_value[600]="";
+    char temp_value[600] = "";
     int rsize;
 
-    while (!feof(f)){
+    while (!feof(f))
+    {
         fgets(word, 50, f);
-        word[strlen(word)-1]= '\0';
+        word[strlen(word) - 1] = '\0';
         // printf("%ld\n", strlen(word));
         int len = strlen(word);
-        for (i=1; i < len +1; i++) {
-            char key[30]="";
+        for (i = 1; i < len + 1; i++)
+        {
+            char key[30] = "";
             strncpy(key, word, i);
             // printf("%s\n", key);
-            if (btsel(complete_tree, key, temp_value, 200, &rsize) != 0) {
+            if (btsel(complete_tree, key, temp_value, 200, &rsize) != 0)
+            {
                 int check = btins(complete_tree, key, word, 30);
-                // printf("Insert key %10s  - Value %15s. Status: %d\n", key, word, check);
-            } else {
+                printf("Insert key %10s  - Value %15s. Status: %d\n", key, word, check);
+            }
+            else
+            {
                 strcpy(temp_value, "");
                 int check = btsel(complete_tree, key, temp_value, sizeof(temp_value), &rsize);
-                if (strlen(temp_value) < 500) {
-                strcat(temp_value, "\n");
-                strcat(temp_value, word);
-                btupd(complete_tree, key, temp_value, strlen(temp_value) + 1);
+                if (strlen(temp_value) < 500)
+                {
+                    strcat(temp_value, "\n");
+                    strcat(temp_value, word);
+                    btupd(complete_tree, key, temp_value, strlen(temp_value) + 1);
                 }
-                // printf("Update %10s - value %15s - word %10s - status %d\n", key, temp_value, word, check);
+                printf("Update %10s - value %15s - word %10s - status %d\n", key, temp_value, word, check);
                 // printf("%s - %s\n", key,temp_value);
             }
         }
@@ -49,45 +56,52 @@ void create_soundexz_tree() {
     btcls(complete_tree);
 }
 
-void create_autocomplete_tree() {
+void create_autocomplete_tree()
+{
     char *file_name = "./data/auto-complete.db";
     // btinit();
-    
+
     BTA *complete_tree;
     complete_tree = btopn(file_name, 0, 1);
-    
-    if (complete_tree == NULL) {
+
+    if (complete_tree == NULL)
+    {
         printf("created\n");
         complete_tree = btcrt(file_name, 0, 1);
-    } 
-    FILE *f = fopen("/usr/share/dict/words","r");
+    }
+    FILE *f = fopen("/usr/share/dict/words", "r");
     char word[50];
-    while (!feof(f)){
+    while (!feof(f))
+    {
         fgets(word, 50, f);
-        word[strlen(word)-1]= '\0';
+        word[strlen(word) - 1] = '\0';
         binsky(complete_tree, word, 1);
     }
     fclose(f);
     btcls(complete_tree);
-
 }
 
-char *process_word(char word[50]) {
-    int i=0;
+char *process_word(char word[50])
+{
+    int i = 0;
     int l = strlen(word);
-    while (isdigit(word[i]) || word[i]=='@' || word[i]=='-') {
+    while (isdigit(word[i]) || word[i] == '@' || word[i] == '-')
+    {
         i++;
     }
-    word = word+i;
+    word = word + i;
     static char temp[30];
     strcpy(temp, "");
     int check = 0;
-    for (i=0; i<l-1; i++) {
-        if (word[i+1]=='/') {
+    for (i = 0; i < l - 1; i++)
+    {
+        if (word[i + 1] == '/')
+        {
             temp[i] = '\0';
             check = 1;
             return temp;
-        } else
+        }
+        else
         {
             temp[i] = word[i];
         }
@@ -95,84 +109,188 @@ char *process_word(char word[50]) {
     return word;
 }
 
-void create_word_mean_tree() {
+void create_word_mean_tree()
+{
     FILE *f = fopen("ENG_VN.txt", "r");
     FILE *f_word = fopen("words.txt", "w");
 
     char temp[500], word[500];
     char *file_name = "./data/word-mean.db";
     // btinit();
-    
+
     BTA *word_tree;
     word_tree = btopn(file_name, 0, 1);
-    
-    if (word_tree == NULL) {
+
+    if (word_tree == NULL)
+    {
         printf("created\n");
         word_tree = btcrt(file_name, 0, 1);
-    }   
+    }
     int check = 0;
     int first_word = 1;
-    while (!feof(f)) {
+    while (!feof(f))
+    {
         strcpy(temp, "");
 
         fgets(temp, 500, f);
         char mean[5000];
 
         temp[strlen(temp) - 1] = '\0';
-        if (temp[0]=='@') {
+        if (temp[0] == '@')
+        {
             check = 0;
-            if (!first_word) {
+            if (!first_word)
+            {
                 // printf("Mean: \n %s", mean);
                 check = btins(word_tree, word, mean, 5000);
 
-                if (check) {
+                if (check)
+                {
                     // printf("Error: %d\n%s\n%s\n", check, word, mean);
-                } else {
+                }
+                else
+                {
                     // printf("%s\n", word);
                     fputs(word, f_word);
                     fputs("\n", f_word);
                 }
-            }        
+            }
             // printf("------------------------------------\n");
             strcpy(word, "");
             strcpy(word, process_word(temp));
-            strcpy(mean,"");    
+            strcpy(mean, "");
             // word
             // printf("Word: %s\n", word);
-            
-        } else if (check==0) {
-            strcat(mean, temp);
-            strcat(mean, "\n");
-            // printf("Mean: %s\n", temp);
-            check=1;
-            first_word=0;
-        } else if (check==1 && temp[0]=='-')
+        }
+        else if (check == 0)
         {
             strcat(mean, temp);
             strcat(mean, "\n");
-        } 
+            // printf("Mean: %s\n", temp);
+            check = 1;
+            first_word = 0;
+        }
+        else if (check == 1 && temp[0] == '-')
+        {
+            strcat(mean, temp);
+            strcat(mean, "\n");
+        }
     }
     fclose(f_word);
     fclose(f);
     btcls(word_tree);
 }
 
-int main() {
+///get soundex:
+static char code[128] = {0};
+void add_code(char *s, int c)
+{
+    while (*s)
+    {
+        code[(int)*s] = code[0x20 ^ (int)*s] = c;
+        s++;
+    }
+}
+
+void soundexInit()
+{
+    char *cls[] =
+        {"AEIOU", "", "BFPV", "CGJKQSXZ", "DT", "L", "MN", "R", 0};
+    int i;
+    for (i = 0; cls[i]; i++)
+    {
+        add_code(cls[i], i - 1);
+    }
+}
+
+char *getSoundex(char *s)
+{
+    static char out[5];
+    int c, prev, i;
+
+    out[0] = out[4] = 0;
+    if (!s || !*s)
+        return out;
+
+    out[0] = *s++;
+
+    prev = code[(int)out[0]];
+    for (i = 1; *s && i < 4; s++)
+    {
+        if ((c = code[(int)*s]) == prev)
+            continue;
+
+        if (c == -1)
+            prev = 0;
+        else if (c > 0)
+        {
+            out[i++] = c + '0';
+            prev = c;
+        }
+    }
+    while (i < 4)
+        out[i++] = '0';
+    return out;
+}
+
+//generate soudex db:
+void createSoundexDb()
+{
+    char *file_name = "./data/soundex.db";
     btinit();
-    // create_autocomplete_tree();
+    soundexInit();
+    BTA *soundexDb;
+    soundexDb = btopn(file_name, 0, 1);
+
+    if (soundexDb == NULL)
+    {
+        printf("created\n");
+        soundexDb = btcrt(file_name, 0, 1);
+    }
+    FILE *f = fopen("/usr/share/dict/words", "r");
+    char word[50];
+    int rsize;
+    while (!feof(f))
+    {
+        fgets(word, 50, f);
+        word[strlen(word) - 1] = '\0';
+        char *soundexString = getSoundex(word);
+        // printf("getsoundex: %s", soundexString);
+        char seriesWord[200000];
+        if (btsel(soundexDb, soundexString, seriesWord, sizeof(seriesWord), &rsize))
+        {
+            btins(soundexDb, soundexString, word, strlen(word) + 1);
+        }
+        else
+        {
+            char separated[100] = "\n";
+            strcat(separated, word);
+            strcat(seriesWord, separated);
+            btupd(soundexDb, soundexString, seriesWord, strlen(seriesWord) + 1);
+        }
+    }
+    fclose(f);
+    btcls(soundexDb);
+}
+
+int main()
+{
+    btinit();
+    create_autocomplete_tree();
+    createSoundexDb();
     // FILE *f = fopen("ENG_VN.txt", "r");
     // FILE *f_word = fopen("words.txt", "w");
     create_word_mean_tree();
     // char temp[500], word[500];
     // char *file_name = "./data/word-mean.db";
-    
+
     // BTA *word_tree;
     // word_tree = btopn(file_name, 0, 1);
-    
+
     // if (word_tree == NULL) {
     //     printf("created\n");
     //     word_tree = btcrt(file_name, 0, 1);
-    // }   
+    // }
     // int check = 0;
     // int first_word = 1;
     // while (!feof(f)) {
@@ -195,14 +313,14 @@ int main() {
     //                 fputs(word, f_word);
     //                 fputs("\n", f_word);
     //             }
-    //         }        
+    //         }
     //         // printf("------------------------------------\n");
     //         strcpy(word, "");
     //         strcpy(word, process_word(temp));
-    //         strcpy(mean,"");    
+    //         strcpy(mean,"");
     //         // word
     //         // printf("Word: %s\n", word);
-            
+
     //     } else if (check==0) {
     //         strcat(mean, temp);
     //         strcat(mean, "\n");
@@ -213,23 +331,23 @@ int main() {
     //     {
     //         strcat(mean, temp);
     //         strcat(mean, "\n");
-    //     } 
+    //     }
     //     // else  if (strcmp(temp, "")==0){
-        //     // printf("Word: %s\n", word);
-        //     // printf("Mean: \n %s", mean);
-        //     check = btins(word_tree, word, mean, 5000);
-            
-        //     if (check) {
-        //         printf("Error: %d\n%s\n%s\n", check, word, mean);
-        //     } else {
-        //         printf("%s\n", word);
-        //         fputs(word, f_word);
-        //         fputs("\n", f_word);
-        //     }
+    //     // printf("Word: %s\n", word);
+    //     // printf("Mean: \n %s", mean);
+    //     check = btins(word_tree, word, mean, 5000);
 
-        //     // printf("End %s1\n");
-        //     // printf("%d\n", strcmp(temp, ""));
-        // }
+    //     if (check) {
+    //         printf("Error: %d\n%s\n%s\n", check, word, mean);
+    //     } else {
+    //         printf("%s\n", word);
+    //         fputs(word, f_word);
+    //         fputs("\n", f_word);
+    //     }
+
+    //     // printf("End %s1\n");
+    //     // printf("%d\n", strcmp(temp, ""));
+    // }
     // }
     // fclose(f_word);
 
@@ -258,7 +376,7 @@ int main() {
     //     }
     //     btpos(test, ZSTART);
     // }
-    
+
     // int check = btsel(word_tree, "wash-out");
     // while (1) {
     //     char prefix[100], completion[5000];
@@ -272,7 +390,7 @@ int main() {
     //     int check = btsel(word_tree, prefix, completion, 5000, &rsize);
     //     // printf("%s\n", completion);
     //     // printf("%s- %d - %s\n", prefix, check, completion);
-    //     if (!check) 
+    //     if (!check)
     //         printf("%s\n", completion);
     //     else printf("Does not exist this key: %d %s\n", check, prefix);
     //     btpos(word_tree, ZSTART);
